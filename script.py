@@ -1,1 +1,3 @@
-import getpass print getpass.getuser()
+import getpass
+username = getpass.getuser()
+print username
